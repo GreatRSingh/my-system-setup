@@ -1,0 +1,2 @@
+sox # Play Auido
+libsox-fmt-all # Audio Format All
